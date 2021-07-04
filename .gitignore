@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+google-services.json
+/google-play-service.json
+vendor/bundle
+dependencies/signing.gradle
