@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">ShutHub</string>
+  <string name="app_name">酒っとHub</string>
+
+  <!-- ボトムバー -->
+  <string name="bottom_nav_liquor">酒設定</string>
+  <string name="bottom_nav_edit">記録</string>
+  <string name="bottom_nav_history">履歴</string>
+  <string name="bottom_nav_setting">その他</string>
+  <string name="bottom_nav_screen_shot">草保存</string>
+
+  <!-- 広告 -->
+  <string name="ad_load">loading…</string>
 </resources>
