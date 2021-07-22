@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="amber_200_back">#15FFFF74</color>
     <color name="amber_200">#FFFFFF74</color>
     <color name="amber_500">#FFFFD740</color>
     <color name="amber_700">#FFC8A600</color>
